@@ -44,21 +44,4 @@ A console-based application designed to efficiently manage the inventory of a pa
     ./pawnshop_inventory
     ```
 
-## 📋 Usage
-
-### Add New Items
-- Input the item details to add them to the inventory.
-
-### Edit Items
-- Select an item by name and edit any of its attributes.
-
-### Delete Items
-- Choose an item by name and remove it from the inventory, unless it is marked as sold.
-
-### Search Items
-- Use different search criteria (name, date, price range) to find specific items.
-
-### Display Items by Category
-- View items filtered by their respective categories.
-
-📮 Feel free to customize this README further to suit your project's specific needs!
+📮 Enjoy!
