@@ -2,6 +2,12 @@
 
 A console-based application designed to efficiently manage the inventory of a pawnshop. This system allows users to add, edit, search, and delete items in the inventory using C and basic file handling.
 
+## Project Details
+
+- **Course**: First Semester Project
+- **Language**: C
+- **Concepts**: File handling, basic data structures
+
 ## 🚀 Features
 
 - **Add New Items** 🆕: Easily add new items with details like ID, name, category, condition, price, and date of pawn.
