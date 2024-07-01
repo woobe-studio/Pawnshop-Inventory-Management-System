@@ -44,4 +44,8 @@ A console-based application designed to efficiently manage the inventory of a pa
     ./pawnshop_inventory
     ```
 
+![ScreenShot](git_needed/view.png)
+
+I've noticed an issue with correctly displaying the data from the file, and I will work on fixing it.
+
 📮 Enjoy!
