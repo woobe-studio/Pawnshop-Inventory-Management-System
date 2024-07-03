@@ -2,6 +2,8 @@
 
 A console-based application designed to efficiently manage the inventory of a pawnshop. This system allows users to add, edit, search, and delete items in the inventory using C and basic file handling.
 
+🚨🚨 In late 2024, I intend to rebuild this project using C# .NET with a user-friendly UI. Stay tuned for further updates! 🚨🚨
+
 ## Project Details
 
 - **Course**: First Semester Project
@@ -17,6 +19,24 @@ A console-based application designed to efficiently manage the inventory of a pa
 - **Category Display** 📂: View items grouped by their categories, such as Toys, Furniture, Decorations, Devices, and Tools.
 - **Price Range Search** 💲: Identify items within a specified price range.
 - **Date Search** 📅: Locate items based on their pawn date.
+
+If you need additional details or a different focus, please let me know!
+
+## 📸 Screenshots:
+
+<div style="text-align: center;">
+
+### 🏠 Main View:
+<img src="git_needed/main_view.png">
+
+### 📦 All items View:
+<img src="git_needed/view.png" width="800">
+
+### 🔍 Search View:
+<img src="git_needed/search_view.png" width="800">
+
+### 🗂️ Search using category:
+<img src="git_needed/category_search_view.png" width="800">
 
 ## 🛠️ How to Run
 
@@ -43,8 +63,6 @@ A console-based application designed to efficiently manage the inventory of a pa
     ```bash
     ./pawnshop_inventory
     ```
-
-![ScreenShot](git_needed/view.png)
 
 I've noticed an issue with correctly displaying the data from the file, and I will work on fixing it.
 
