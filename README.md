@@ -2,7 +2,8 @@
 
 A console-based application designed to efficiently manage the inventory of a pawnshop. This system allows users to add, edit, search, and delete items in the inventory using C and basic file handling.
 
-🚨🚨 In late 2024, I intend to rebuild this project using C# .NET with a user-friendly UI. Stay tuned for further updates! 🚨🚨
+## Important Announcement 🚨🚨
+In late 2024, I intend to rebuild this project using C# .NET with a user-friendly UI. Stay tuned for further updates!
 
 ## Project Details
 
